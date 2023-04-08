@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on UX/FrontEnd Developer<br>I'm Currently Learning Python, Django with POSTgre SQL<br>
+I'm currently working on UX/FrontEnd Developer<br>I'm Currently Learning Python and Django <br>
 
 
 ## 🌐 Socials:
